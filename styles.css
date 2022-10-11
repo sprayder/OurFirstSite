@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+body{
+    font-weight: bold;
+    font-family: 'Roboto', 
+    sans-serif;
+}
+.vindiselphoto{
+    border-radius: 28px;
+    width: 100%;
+}
+.creatingsitesforyou{
+    font-size: 40px;
+}
+.badthings{
+    color: red;
+    font-size: 150%;
+    text-decoration: line-through;
+}
+.goodthings{
+    font-size: 200%;
+    color: green;
+}
+.mycontainer{
+    width: 25%;
+    background-color:blueviolet;
+    margin: auto;
+}
